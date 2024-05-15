@@ -1,11 +1,11 @@
 {
-  "name": "halcyon",
+  "name": "hyper-halcyontheme",
   "version": "0.1.0",
   "description": "A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "James Ramos <jamesramosdev@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/halcyon-site"
+    "url": "git+https://github.com/code-n-cool/halcyon-site.git"
   },
   "license": "MIT",
   "scripts": {
@@ -48,5 +48,18 @@
     "lint-staged": "^9.2.5",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/code-n-cool/halcyon-site/issues"
+  },
+  "homepage": "https://github.com/code-n-cool/halcyon-site#readme",
+  "main": "gatsby-browser.js",
+  "keywords": [
+    "theme",
+    "vscode",
+    "hyper",
+    "hyper-theme",
+    "halcyon",
+    "halcyon-theme"
+  ]
 }

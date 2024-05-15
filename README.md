@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon" src="https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Halcyon
@@ -105,4 +105,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bchiang7/halcyon-site)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/code-n-cool/halcyon-site)

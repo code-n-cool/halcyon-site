@@ -76,12 +76,12 @@ const platforms = [
   },
   {
     name: 'iTerm',
-    url: 'https://github.com/bchiang7/halcyon-iterm',
+    url: 'https://github.com/code-n-cool/halcyon-iterm',
     logo: iTerm,
   },
   {
     name: 'Hyper',
-    url: 'https://www.npmjs.com/package/hyper-halcyon-theme',
+    url: 'https://www.npmjs.com/package/hyper-halcyontheme',
     logo: Hyper,
   },
 ];

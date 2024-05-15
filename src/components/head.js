@@ -12,7 +12,7 @@ const Head = ({ metadata }) => (
     <link
       rel="icon"
       type="image/png"
-      href="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png"
+      href="https://raw.githubusercontent.com/code-n-cool/halcyon-vscode/master/images/logo.png"
       hrefLang="en-us"
     />
     <meta name="description" content={metadata.description} />

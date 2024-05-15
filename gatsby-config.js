@@ -3,7 +3,7 @@ module.exports = {
     title: 'Halcyon',
     description: 'A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.',
     keywords: 'Halcyon, Halcyon theme, halcyon, theme, dark blue theme, VS Code theme',
-    twitterHandle: '@bchiang7',
+    twitterHandle: '@jramos',
     siteURL: 'https://halcyon-theme.netlify.com',
   },
   plugins: [
